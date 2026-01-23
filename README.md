@@ -1,0 +1,147 @@
+# MTEC 3501 — Culmination Project Development
+
+*New York City College of Technology (City Tech) • Department of Entertainment Technology*
+
+---
+
+
+## 📌 Weekly Update
+
+### 2025-10-23: Mid Semester Presentations  
+
+Today we are face to face, and you will be giving your presentations.&nbsp; Please feel free to refer to this document that suggests what you need to provide.&nbsp; Project Presentation Deliverables.
+
+Remember your presentation will be capped at 10 minutes, and then there will be a 10 minute Q&A; Jurists will also post written remarks for later. Make sure also to merge your GitHub branches with your project materials, and make this available to the jury.&nbsp; You will be presenting from either your computer that is patches into the room system, or you will present on the computer that is in there: in which case you will probaby want to bring your Powerpoint in on a jump drive.
+
+**(Week 4)**
+Do the following assignments
+1. Build a project board for your project [link to document](./documents-Class/03_ProjectTracking/Project-Board-Creation.md)  
+2. Do the precedent research assignment [link to assignment 4](./assignments/Week%204.md)
+
+> This section will be updated each week with the current assignment and deliverables.
+> 🔗 [See all assignments](./assignments)
+
+**(Week 3)**
+* [Week 3 assignments](./assignments/week03/03_Assignment_due_Week_04.md)
+  - Micro Presentation on your project
+  - Inspirational elements for your project, with links for inclusion into Zotero
+  - Updated or refined README in your project folder
+  - GitHub Desktop downloaded and synced to your repo
+
+**(Week 02)**
+* [Week 2 assignments](./assignments/week02/Brainstorming%20Assignment%20Week%2002.md)
+
+**(Week 01):**
+
+* [Week 1 assignments](./assignments/week01)
+* Due: Week 02 (9/4)
+* Deliverables:
+  * [Speculative Essay](./assignments/week01/01_Speculative_Reflection_Assignment.md)
+  * [Onboarding GitHub, Zotero, Discord, Google](./assignments/week01/01-Student_onboarding.md)
+
+---
+
+## 📚 Course Overview
+
+**MTEC 3501** prepares you for your **culmination project** in the BTech program.
+
+* You will develop a **prototype** (not yet a full Least Viable Product).
+* Work progresses through **Speculation → Research → Design → Make → Publish → Assessment**.
+* The semester emphasizes **proposal writing, precedent research, milestone planning, and juried presentations**.
+
+---
+
+## 🗂️ Repository Structure
+
+```
+/documents-Class
+  ├─ assignments/        # Weekly student assignments (chronological index inside)
+  ├─ lesson-plans/       # Faculty-facing lesson plans (not required for students)
+  └─ support/            # Shared resources (rubrics, templates, references)
+
+ /Projects                # Each student has their own folder
+   └─ YourName/
+       ├─ Proposal.md
+       ├─ Research/
+       ├─ Design/
+       └─ Planning/
+
+/.github                  # Issue templates & workflows
+```
+
+---
+
+## 📝 Assignments
+
+Assignments are released week by week and tied to the syllabus.
+➡️ [Assignments Index (chronological)](documents-Class/assignments/README.md)
+
+Key types of work you’ll complete:
+
+* **Speculation & Brainstorming** → generate project seeds and scenarios.
+* **Proposal Development** → detailed speculative proposal, precedent research, milestones.
+* **Project Tracking** → GitHub Issues, milestones, and timelines.
+* **Juried Presentation Prep** → proposal defense with professional panel.
+* **Post-Presentation Analysis** → refine scope and planning based on feedback.
+* **Proof-of-Concept Prototype** → an early working sketch of your project.
+
+---
+
+## 🧰 Project Management
+
+We use **GitHub Projects (Kanban/Roadmap)** for task tracking:
+
+* **Individual Projects**: Each student maintains a **personal Kanban board** in `/Projects/YourName`.
+* **Group Projects**: Shared tasks go into the **Class Kanban Board**.
+* Use **Issues + Milestones** for deliverables.
+* Peer feedback is tracked with **issue comments** using the `Proposal_Feedback.yml` template.
+
+---
+
+## 🧑‍💻 How to Work in This Repo
+
+1. **Clone the repo** → `git clone https://github.com/entertainmenttechnology/Smith-MTEC3501-Template.git`
+2. **Create your student folder** in `/Projects/YourName/` if not already assigned.
+3. **Document everything** — research notes, drafts, diagrams, AI usage logs.
+4. **Push changes regularly** so faculty and peers can review progress.
+5. **Use Issues/Projects** → All tasks must be represented on your board.
+
+---
+
+## 📆 Key Dates (Syllabus Sync)
+
+* **Week 3 (Feb 17)** → Project Proposal presentation (juried checkpoint)
+* **Week 8** → Midterm checkpoint presentations
+* **Week 15** → Final Culmination Presentations
+
+*For the full syllabus, see* → [Syllabus.pdf](documents-Class/Syllabus.pdf)
+
+---
+
+## 📎 Resources
+
+* [Assignments Index](documents-Class/assignments/README.md)
+* [Lesson Plans (faculty only)](documents-Class/lesson-plans/)
+* [Support Materials](documents-Class/support/)
+* [Meta-Project Tracking Board](https://github.com/orgs/CHI-CityTech/projects/)
+
+---
+
+## 🤝 AI Collaboration Reporting
+
+Each assignment includes a section where you must **document how you collaborated with AI**.
+
+* Record prompts, tools used, and edits you made.
+* Reflect on how AI changed or influenced your process.
+* This is **required for all major deliverables**.
+
+---
+
+## ✅ Deliverables at a Glance
+
+* **Proposal Package** (issue + markdown)
+* **Precedent Research** (2–3 pages + Zotero entry)
+* **Milestone & Timeline** (GitHub Projects/Roadmap)
+* **Juried Presentations** (Week 3 & Week 8 checkpoints, Final)
+* **Proof-of-Concept Prototype** (sketch/demo, not yet LVP)
+* **Post-Presentation Analysis** (reflection + adjustments)
