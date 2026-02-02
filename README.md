@@ -4,10 +4,13 @@
 
 ---
 
+[Link to the Brainstorm Document](https://docs.google.com/document/d/1ZxAizZq-tNI_USFXjVMqMC8Gy4u8zthl_NxuTtiQ_Vw/edit?usp=sharing)  
+
+
 
 ## 📌 Weekly Update
 
-### 2025-10-23: Mid Semester Presentations  
+
 
 Today we are face to face, and you will be giving your presentations.&nbsp; Please feel free to refer to this document that suggests what you need to provide.&nbsp; Project Presentation Deliverables.
 
